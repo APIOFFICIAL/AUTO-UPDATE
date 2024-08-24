@@ -30,4 +30,49 @@ proxies:
       path: /vmws
       headers:
         Host: sg3.socifiles.com
+  - name: 🔥 WHATSAPP
+    server: chat.whatsapp.com
+    port: 443
+    type: vmess
+    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg3.socifiles.com
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: sg3.socifiles.com
+  - name: 🔥 YOUTUBE
+    server: m.youtube.com
+    port: 443
+    type: vmess
+    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg3.socifiles.com
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: sg3.socifiles.com
+  - name: 🔥 INSTAGRAM
+    server: m.instagram.com
+    port: 443
+    type: vmess
+    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg3.socifiles.com
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: sg3.socifiles.com
 #***** PEMBATAS*****#
