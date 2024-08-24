@@ -1,0 +1,129 @@
+
+##***** PROXY GROUPS *****##
+
+proxy-groups: 
+##***** MANUAL *****##
+  - name: 🌟 MANUAL 🌟 
+    type: select
+    disable-udp: false
+    proxies:
+      - REJECT
+      - 🌟 AXIS 🌟
+      - 🌟 XL 🌟
+      - 🌟 BYU 🌟
+      - 🌟 TELKOMSEL 🌟
+      - 🌟 INDOSAT 🌟
+##***** PEMBATAS *****##
+
+##***** AXIS *****##
+  - name: 🌟 AXIS 🌟 
+    type: select
+    disable-udp: false
+    use:
+      - AXIS
+    url: http://www.gstatic.com/generate_204
+    interval: 360
+##***** PEMBATAS*****##
+
+##***** XL *****##
+  - name: 🌟 XL 🌟 
+    type: select
+    disable-udp: false
+    use:
+      - XL
+    url: http://www.gstatic.com/generate_204
+    interval: 360
+##***** PEMBATAS *****##
+
+##***** BYU *****##
+  - name: 🌟 BYU 🌟 
+    type: select
+    disable-udp: false
+    use:
+      - BYU
+    url: http://www.gstatic.com/generate_204
+    interval: 360
+##***** PEMBATAS *****##
+
+##***** TELKOMSEL *****##
+  - name: 🌟 TELKOMSEL 🌟 
+    type: select
+    disable-udp: false
+    use:
+      - TELKOMSEL 
+    url: http://www.gstatic.com/generate_204
+    interval: 360
+##***** PEMBATAS *****##    
+
+##***** INDOSAT *****##
+  - name: 🌟 INDOSAT 🌟 
+    type: select
+    disable-udp: false
+    use:
+      - INDOSAT
+    url: http://www.gstatic.com/generate_204
+    interval: 360
+##***** PEMBATAS *****##    
+
+##***** PROXY PROVIDERS *****##
+
+proxy-providers:
+##***** AXIS *****##
+  AXIS:
+    type: file
+    url: https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/AXIS.yaml
+    path: ./AXIS.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 99
+##***** PEMBATAS *****##
+
+##***** XL *****##
+  XL:
+    type: file
+    url: https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/XL.yaml
+    path: ./XL.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 99
+##***** PEMBATAS *****##
+
+##***** BYU *****##
+  BYU:
+    type: file
+    url: https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/BYU.yaml
+    path: ./BYU.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 99      
+##***** PEMBATAS *****##
+
+##***** TELKOMSEL *****##
+  TELKOMSEL:
+    type: file
+    url: https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/TELKOMSEL.yaml
+    path: ./TELKOMSEL.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 99
+##***** PEMBATAS *****##     
+
+##***** INDOSAT *****##
+  INDOSAT:
+    type: file
+    url: https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/INDOSAT.yaml
+    path: ./INDOSAT.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 99
+##***** PEMBATAS *****##     
+
+##***** RULES *****##
+
+rules:
+  - MATCH,🌟 MANUAL 🌟 
