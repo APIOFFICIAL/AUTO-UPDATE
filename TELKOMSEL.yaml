@@ -1,0 +1,78 @@
+proxies:
+#***** TELKOMSEL*****#
+  - name: 🔥 ILMUPEDIA
+    server: 104.26.6.171
+    port: 443
+    type: vmess
+    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg3.socifiles.com
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: sg3.socifiles.com
+  - name: 🔥 RUANGGURU
+    server: bimbel.ruangguru.com
+    port: 443
+    type: vmess
+    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg3.socifiles.com
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: sg3.socifiles.com
+  - name: 🔥 GAMESMAX V1
+    server: link.duniagames.co.id
+    port: 443
+    type: vmess
+    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg3.socifiles.com
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: sg3.socifiles.com
+  - name: 🔥 GAMESMAX V2
+    server: ir.huya.com
+    port: 443
+    type: vmess
+    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg3.socifiles.com
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: sg3.socifiles.com
+  - name: 🔥 OPOK
+    server: loop.co.id
+    port: 443
+    type: vmess
+    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg3.socifiles.com
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: sg3.socifiles.com
+##***** PEMBATAS *****##
