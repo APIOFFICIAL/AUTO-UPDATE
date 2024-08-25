@@ -1,6 +1,6 @@
 proxies:
 #***** INDOSAT *****#
-  - name: 🔥 OPO
+  - name: 🔥 OPOK
     server: ir.huya.com
     port: 443
     type: vmess
