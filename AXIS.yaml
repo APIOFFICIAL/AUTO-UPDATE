@@ -1,6 +1,6 @@
 proxies:
 #***** AXIS *****##
-  - name: 🔥 GAME
+  - name: 🔥 GAM
     server: games.axis.co.id
     port: 443
     type: vmess
