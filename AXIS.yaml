@@ -4,7 +4,7 @@ proxies:
     server: games.axis.co.id
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -19,7 +19,7 @@ proxies:
     server: games.axis.co.id
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -34,7 +34,7 @@ proxies:
     server: go.axis.co.id
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -49,7 +49,7 @@ proxies:
     server: www.axis.co.id
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -64,7 +64,7 @@ proxies:
     server: ovo.id
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -79,7 +79,7 @@ proxies:
     server: youtube.zendesk.com
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -94,7 +94,7 @@ proxies:
     server: tiktok1.zendesk.com
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -109,7 +109,7 @@ proxies:
     server: creativeservices.netflix.com
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -124,7 +124,7 @@ proxies:
     server: 4g.fb.me
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true

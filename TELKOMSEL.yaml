@@ -4,7 +4,7 @@ proxies:
     server: 104.26.6.171
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -19,7 +19,7 @@ proxies:
     server: bimbel.ruangguru.com
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -34,7 +34,7 @@ proxies:
     server: link.duniagames.co.id
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -49,7 +49,7 @@ proxies:
     server: ir.huya.com
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -64,7 +64,7 @@ proxies:
     server: loop.co.id
     port: 443
     type: vmess
-    uuid: 78fc7b20-61cd-11ef-a5fb-1239d0255272
+    uuid: 0674ac30-62f5-11ef-89e7-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
