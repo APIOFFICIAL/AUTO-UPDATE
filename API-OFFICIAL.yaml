@@ -114,8 +114,7 @@ proxy-providers:
 
 ##***** INDOSAT *****##
   INDOSAT:
-    type: http
-    behavior: classical
+    exclude-type: ss|http
     url: https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/INDOSAT.yaml
     path: ./INDOSAT.yaml
     health-check:
