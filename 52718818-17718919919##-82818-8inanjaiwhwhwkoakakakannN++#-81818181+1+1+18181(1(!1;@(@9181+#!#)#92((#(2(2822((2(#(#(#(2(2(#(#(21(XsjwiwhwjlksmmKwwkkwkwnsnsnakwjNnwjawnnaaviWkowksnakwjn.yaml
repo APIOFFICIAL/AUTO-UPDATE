@@ -30,17 +30,17 @@ rule-providers:
     path: "./STREAMING-1.yaml"
   STREAMING-2:
     type: file
-https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/STREAMING-2.yaml
+    url: https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/STREAMING-2.yaml
     behavior: domain
     path: "./STREAMING-2.yaml"
   STREAMING-3:
     type: file
-https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/STREAMING-3.yaml
+    url: https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/STREAMING-3.yaml
     behavior: domain
     path: "./STREAMING-3.yaml"
   STREAMING-4:
     type: file
-https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/STREAMING-4.yaml
+    url: https://raw.githubusercontent.com/APIOFFICIAL/AUTO-UPDATE/main/STREAMING-4.yaml
     behavior: domain
     path: "./STREAMING-4.yaml"
 #***** PEMBATAS *****#
