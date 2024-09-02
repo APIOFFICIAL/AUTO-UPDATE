@@ -54,7 +54,7 @@ proxies:
     server: games.axis.co.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -69,7 +69,7 @@ proxies:
     server: games.axis.co.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -84,7 +84,7 @@ proxies:
     server: go.axis.co.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -99,7 +99,7 @@ proxies:
     server: www.axis.co.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -114,7 +114,7 @@ proxies:
     server: ovo.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -129,7 +129,7 @@ proxies:
     server: youtube.zendesk.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -144,7 +144,7 @@ proxies:
     server: tiktok1.zendesk.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -159,7 +159,7 @@ proxies:
     server: creativeservices.netflix.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -174,7 +174,7 @@ proxies:
     server: cdn.facebooo.me
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -189,7 +189,7 @@ proxies:
     server: maps.google.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -207,7 +207,7 @@ proxies:
     server: investor.fb.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -222,7 +222,7 @@ proxies:
     server: chat.xl.co.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -237,7 +237,7 @@ proxies:
     server: quiz.vidio.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -252,7 +252,7 @@ proxies:
     server: padlet.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -267,7 +267,7 @@ proxies:
     server: ava.game.naver.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -282,7 +282,7 @@ proxies:
     server: api.visionplus.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -297,7 +297,7 @@ proxies:
     server: support-vpn-pro.opera.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -312,7 +312,7 @@ proxies:
     server: support.udemy.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -330,7 +330,7 @@ proxies:
     server: space.byu.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -345,7 +345,7 @@ proxies:
     server: suporte.garena.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -360,7 +360,7 @@ proxies:
     server: chat.whatsapp.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -375,7 +375,7 @@ proxies:
     server: m.youtube.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -390,7 +390,7 @@ proxies:
     server: m.instagram.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -408,7 +408,7 @@ proxies:
     server: 104.26.6.171
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -423,7 +423,7 @@ proxies:
     server: bimbel.ruangguru.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -438,7 +438,7 @@ proxies:
     server: link.duniagames.co.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -453,7 +453,7 @@ proxies:
     server: ir.huya.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -468,7 +468,7 @@ proxies:
     server: loop.co.id
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -486,7 +486,7 @@ proxies:
     server: creativeservices.netflix.com
     port: 443
     type: vmess
-    uuid: 52673a20-6791-11ef-a6aa-1239d0255272
+    uuid: 48614d50-6935-11ef-b287-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
