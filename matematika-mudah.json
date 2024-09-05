@@ -1,0 +1,122 @@
+[
+  {
+    "index": 1,
+    "soal": "5 × 3",
+    "tipe": "perkalian",
+    "jawaban": "15"
+  },
+  {
+    "index": 2,
+    "soal": "7 × 4",
+    "tipe": "perkalian",
+    "jawaban": "28"
+  },
+  {
+    "index": 3,
+    "soal": "6 × 6",
+    "tipe": "perkalian",
+    "jawaban": "36"
+  },
+  {
+    "index": 4,
+    "soal": "8 × 5",
+    "tipe": "perkalian",
+    "jawaban": "40"
+  },
+  {
+    "index": 5,
+    "soal": "9 × 2",
+    "tipe": "perkalian",
+    "jawaban": "18"
+  },
+  {
+    "index": 6,
+    "soal": "4 × 3",
+    "tipe": "perkalian",
+    "jawaban": "12"
+  },
+  {
+    "index": 7,
+    "soal": "2 × 7",
+    "tipe": "perkalian",
+    "jawaban": "14"
+  },
+  {
+    "index": 8,
+    "soal": "3 × 3",
+    "tipe": "perkalian",
+    "jawaban": "9"
+  },
+  {
+    "index": 9,
+    "soal": "9 × 5",
+    "tipe": "perkalian",
+    "jawaban": "45"
+  },
+  {
+    "index": 10,
+    "soal": "7 × 7",
+    "tipe": "perkalian",
+    "jawaban": "49"
+  },
+  {
+    "index": 11,
+    "soal": "12 + 8",
+    "tipe": "penjumlahan",
+    "jawaban": "20"
+  },
+  {
+    "index": 12,
+    "soal": "15 + 10",
+    "tipe": "penjumlahan",
+    "jawaban": "25"
+  },
+  {
+    "index": 13,
+    "soal": "9 + 7",
+    "tipe": "penjumlahan",
+    "jawaban": "16"
+  },
+  {
+    "index": 14,
+    "soal": "20 + 5",
+    "tipe": "penjumlahan",
+    "jawaban": "25"
+  },
+  {
+    "index": 15,
+    "soal": "14 + 6",
+    "tipe": "penjumlahan",
+    "jawaban": "20"
+  },
+  {
+    "index": 16,
+    "soal": "11 + 9",
+    "tipe": "penjumlahan",
+    "jawaban": "20"
+  },
+  {
+    "index": 17,
+    "soal": "8 + 5",
+    "tipe": "penjumlahan",
+    "jawaban": "13"
+  },
+  {
+    "index": 18,
+    "soal": "6 + 4",
+    "tipe": "penjumlahan",
+    "jawaban": "10"
+  },
+  {
+    "index": 19,
+    "soal": "10 + 3",
+    "tipe": "penjumlahan",
+    "jawaban": "13"
+  },
+  {
+    "index": 20,
+    "soal": "9 + 6",
+    "tipe": "penjumlahan",
+    "jawaban": "15"
+  }
+]
